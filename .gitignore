@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# CAD application temp / backup / lock files
+*.FCStd1
+*.FCBak
+*.bak
+*.tmp
+*~
+*.stl.tmp
+
+# Editor
+.vscode/
+.idea/
