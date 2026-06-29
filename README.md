@@ -77,10 +77,21 @@ Start with **[DESIGN_NOTES.md](DESIGN_NOTES.md)**.
 
 ## License
 
-MIT License with Commons Clause - see [LICENSE](LICENSE) for details.
+**[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)** (CC BY-NC-SA 4.0) - see [LICENSE](LICENSE) for the full text.
 
-Free to use, modify, and share. **Commercial sale is not permitted** under the
-Commons Clause - if you want to use this commercially, please talk to us at
-[info@exaviz.com](mailto:info@exaviz.com).
+In plain terms, you are free to:
+
+- **Use, print, and modify** these files for personal and non-commercial use.
+- **Share** them, and share your changes, as long as you credit Exaviz and keep
+  derivatives under the same license.
+
+### Why this license?
+
+We open-sourced this so the community can use, print, and improve it freely. The
+NonCommercial term is here for one reason: to keep a company from simply
+reselling our design instead of buying a case from us or making their own. We
+have no interest in profiting from your contributions - improvements stay under
+these same open, non-commercial terms for everyone. If you do want to use it
+commercially, just talk to us at [info@exaviz.com](mailto:info@exaviz.com).
 
 Copyright (c) 2026 Axzez LLC (aka Exaviz)
