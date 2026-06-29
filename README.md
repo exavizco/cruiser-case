@@ -42,16 +42,17 @@ you.
 | Path | Description |
 |------|-------------|
 | `cad/cruiser-case-assembly.step.zip` | The full case assembly in STEP (ISO 10303) format, zipped (~14 MB zipped, ~98 MB uncompressed). The mechanical source of truth. |
+| `cad/cruiser-case.FCStd` | Native FreeCAD document with the same geometry. Open it directly in FreeCAD (no unzip needed). |
 | `DESIGN_NOTES.md` | Known issues, what works, and where to start. |
 | `images/` | Renders of the design. |
 
 ### Using the CAD file
 
-1. Download `cad/cruiser-case-assembly.step.zip` and unzip it.
-2. Open the `.step` file in any CAD tool that reads STEP - FreeCAD (free),
-   Fusion 360, SolidWorks, Onshape, etc.
-3. STEP is a neutral, widely supported interchange format, so you can import it
-   almost anywhere to remix or export a printable mesh.
+- **FreeCAD users:** open `cad/cruiser-case.FCStd` directly (no unzip needed).
+- **Everyone else:** download `cad/cruiser-case-assembly.step.zip`, unzip it, and
+  open the `.step` file in any CAD tool that reads STEP (Fusion 360, SolidWorks,
+  Onshape, etc.). STEP is a neutral, widely supported interchange format, so you
+  can import it almost anywhere to remix or export a printable mesh.
 
 ## Board reference
 
