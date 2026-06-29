@@ -69,6 +69,12 @@ you.
 Issues for fit problems, dimension questions, or design ideas are equally welcome.
 Start with **[DESIGN_NOTES.md](DESIGN_NOTES.md)**.
 
+**A note for contributors:** Your contributions stay under CC BY-NC-SA for
+everyone, us included. We will never sell or commercially license your
+contribution without your explicit permission. Our commercial licensing covers
+only the original design we created, and it exists to stop a company from
+reselling it, not to monetize your work.
+
 ## Links
 
 - **Website:** [www.exaviz.com](https://www.exaviz.com)
@@ -91,7 +97,15 @@ We open-sourced this so the community can use, print, and improve it freely. The
 NonCommercial term is here for one reason: to keep a company from simply
 reselling our design instead of buying a case from us or making their own. We
 have no interest in profiting from your contributions - improvements stay under
-these same open, non-commercial terms for everyone. If you do want to use it
-commercially, just talk to us at [info@exaviz.com](mailto:info@exaviz.com).
+these same open, non-commercial terms for everyone.
+
+### Commercial use
+
+Want to manufacture or sell this commercially? The license above (CC BY-NC-SA
+4.0) covers personal and non-commercial use only. We separately offer commercial
+licensing for **the original design we created** - if you want to produce or sell
+it commercially, contact us at [info@exaviz.com](mailto:info@exaviz.com). Note
+this covers only our own work; community contributions stay non-commercial and
+belong to their authors.
 
 Copyright (c) 2026 Axzez LLC (aka Exaviz)
